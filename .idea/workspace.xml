@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="057595e0-dcfc-4a18-9113-a50211ee54df" name="Default Changelist" comment="This is my upload practical  document forcp1404">
+    <list default="true" id="057595e0-dcfc-4a18-9113-a50211ee54df" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585818875192</updated>
       <workItem from="1585818876576" duration="4310000" />
-      <workItem from="1586339089366" duration="226000" />
+      <workItem from="1586339089366" duration="477000" />
     </task>
     <task id="LOCAL-00001" summary="This is my upload practical document for　cp1404">
       <created>1585819283077</created>
@@ -133,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586339250881</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="This is my upload practical 3 document for cp1404">
+      <created>1586339467749</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1586339467749</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,7 +153,8 @@
     <MESSAGE value="This is my upload practical 2 document forcp1404" />
     <MESSAGE value="This is my upload practical  document forcp1404" />
     <MESSAGE value="This is my upload practical 3 document forcp1404" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is my upload practical 3 document forcp1404" />
+    <MESSAGE value="This is my upload practical 3 document for cp1404" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is my upload practical 3 document for cp1404" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1512" y="715" key="#Notifications" timestamp="1585819997806">
@@ -157,10 +165,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1663" y="862" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1585818909435" />
-    <state x="1442" y="595" key="CommitChangelistDialog2" timestamp="1586339249334">
+    <state x="1442" y="595" key="CommitChangelistDialog2" timestamp="1586339466694">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1442" y="595" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1586339249334" />
+    <state x="1442" y="595" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1586339466694" />
     <state x="1700" y="797" key="FileChooserDialogImpl" timestamp="1585819168460">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -189,10 +197,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1692" y="778" key="RollbackChangesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1585823170314" />
-    <state x="1512" y="789" key="Vcs.Push.Dialog.v2" timestamp="1585823403529">
+    <state x="1512" y="789" key="Vcs.Push.Dialog.v2" timestamp="1586339563157">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1512" y="789" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1585823403529" />
+    <state x="1512" y="789" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1586339563157" />
     <state x="1612" y="881" key="com.intellij.ide.util.TipDialog" timestamp="1586339217497">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
